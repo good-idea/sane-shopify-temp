@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.1](https://github.com/good-idea/sane-shopify-temp/compare/v0.8.0...v0.8.1) (2020-01-07)
+
+### Bug Fixes
+
+- **sanity-plugin:** lil fix ([4e0ac26](https://github.com/good-idea/sane-shopify-temp/commit/4e0ac2651e901587bdbff2de06d77a4609aa6300))
+
 # [0.8.0](https://github.com/good-idea/sane-shopify-temp/compare/v0.5.2...v0.8.0) (2020-01-07)
 
 ### Bug Fixes

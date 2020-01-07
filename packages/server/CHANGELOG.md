@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.1](https://github.com/good-idea/sane-shopify/compare/@sane-shopify/server@0.6.0...@sane-shopify/server@0.6.1) (2020-01-07)
+
+**Note:** Version bump only for package @sane-shopify/server
+
 # 0.6.0 (2020-01-07)
 
 ## 0.5.2 (2019-11-10)

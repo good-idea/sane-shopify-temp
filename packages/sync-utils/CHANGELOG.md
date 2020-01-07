@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.1](https://github.com/good-idea/sane-shopify/compare/@sane-shopify/sync-utils@0.6.0...@sane-shopify/sync-utils@0.6.1) (2020-01-07)
+
+### Bug Fixes
+
+- **sync-utils:** test fix commit ([3255975](https://github.com/good-idea/sane-shopify/commit/325597535a02846bee274ccd9cfaf278a4e94d73))
+
 # 0.6.0 (2020-01-07)
 
 ## 0.5.2 (2019-11-10)

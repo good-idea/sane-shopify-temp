@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2020-01-07)
+
+## 0.5.2 (2019-11-10)
+
+### Bug Fixes
+
+- **sync-utils:** update product reference fields ([421bc3a](https://github.com/good-idea/sane-shopify/commit/421bc3a643c359b8696f6e34a05747123dff696b))
+
+## 0.5.1 (2019-11-10)
+
+# 0.5.0 (2019-11-10)
+
+# 0.4.0 (2019-08-09)
+
+### Features
+
+- **server:** require sanity auth token for webhooks ([35b83d6](https://github.com/good-idea/sane-shopify/commit/35b83d61e6e8858cff5fe7b2ff2ccfe4531f0248))
+
+# 0.3.0 (2019-08-09)
+
+### Features
+
+- **server:** export graphQL and webhook lambdas ([9679cac](https://github.com/good-idea/sane-shopify/commit/9679cac6c3562134fbb9692bdec42e9f95fbe3e8))
+
 ## [0.5.2](https://github.com/good-idea/sane-shopify/compare/v0.5.1...v0.5.2) (2019-11-10)
 
 ### Bug Fixes

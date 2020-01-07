@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2020-01-07)
+
+### Bug Fixes
+
+- **types:** fix types for updated sync-utils ([62029e0](https://github.com/good-idea/sane-shopify/commit/62029e0906396d21d9fbb492e316a70a74164f84))
+
+## 0.5.2 (2019-11-10)
+
+### Bug Fixes
+
+- **sync-utils:** update product reference fields ([421bc3a](https://github.com/good-idea/sane-shopify/commit/421bc3a643c359b8696f6e34a05747123dff696b))
+
+## 0.5.1 (2019-11-10)
+
+# 0.5.0 (2019-11-10)
+
+# 0.4.0 (2019-08-09)
+
+# 0.3.0 (2019-08-09)
+
+### Features
+
+- **server:** export graphQL and webhook lambdas ([9679cac](https://github.com/good-idea/sane-shopify/commit/9679cac6c3562134fbb9692bdec42e9f95fbe3e8))
+
+# 0.2.0 (2019-06-18)
+
+## 0.1.5 (2019-06-17)
+
+## 0.1.3 (2019-06-16)
+
+## 0.1.2 (2019-06-16)
+
+## 0.1.1 (2019-06-16)
+
+### Bug Fixes
+
+- **repo:** update publish config for all packages ([e691515](https://github.com/good-idea/sane-shopify/commit/e6915153d245c9297af6c3425e9d8e9f8a27d631))
+
+# 0.1.0 (2019-06-16)
+
+### Bug Fixes
+
+- **types:** export SelectedOption + ProductPriceRange ([ce0a77a](https://github.com/good-idea/sane-shopify/commit/ce0a77aff636eebb9344fd2198f6f97a210d517a))
+- **types:** move Desk-tool types to plugin directory ([59d3099](https://github.com/good-idea/sane-shopify/commit/59d3099de7ef343d2b51b8e5ac0c8d2ccbd3c827))
+
+### Features
+
+- **types:** separate types into separate package ([777bc87](https://github.com/good-idea/sane-shopify/commit/777bc87e844edfac1a63e3148408386837b20f2b))
+
 ## [0.5.2](https://github.com/good-idea/sane-shopify/compare/v0.5.1...v0.5.2) (2019-11-10)
 
 ### Bug Fixes

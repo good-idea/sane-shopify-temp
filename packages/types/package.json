@@ -6,7 +6,8 @@
 	"homepage": "https://github.com/good-idea/sane-shopify#readme",
 	"license": "MIT",
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+    "registry": "http://localhost:4873"
 	},
 	"scripts": {
     "linky": "yalc publish",

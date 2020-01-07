@@ -30,7 +30,8 @@
 		"url": "git+https://github.com/good-idea/sane-shopify.git"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+    "registry": "http://localhost:4873"
 	},
 	"directories": {
 		"lib": "lib",

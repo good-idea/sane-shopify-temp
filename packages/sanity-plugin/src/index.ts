@@ -9,3 +9,4 @@ export default {
   icon: ShopifyIcon,
   component: ShopifyTool
 }
+console.log('test from plugin')

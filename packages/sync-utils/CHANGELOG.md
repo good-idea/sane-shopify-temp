@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/good-idea/sane-shopify/compare/v0.5.2...v0.8.0) (2020-01-07)
+
+### Bug Fixes
+
+- **sync-utils:** add graphql-tag to dependencies ([a0bc9e8](https://github.com/good-idea/sane-shopify/commit/a0bc9e84e03c39e6e4958b71d3d10255506ca758))
+- **sync-utils:** test fix commit ([3255975](https://github.com/good-idea/sane-shopify/commit/325597535a02846bee274ccd9cfaf278a4e94d73))
+
 ## [0.6.1](https://github.com/good-idea/sane-shopify/compare/@sane-shopify/sync-utils@0.6.0...@sane-shopify/sync-utils@0.6.1) (2020-01-07)
 
 ### Bug Fixes
